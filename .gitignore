@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# RAG application specific files
+chroma_db/
+extracted_images/
+chunks/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Local development settings
+.env
